@@ -75,7 +75,7 @@
 - Die Verwendung von REST APIs und CRUD-Operationen erläutern können
 - Erstellung eines einfachen Datenmodells im Strapi-Backend
 
-## #5 [Agiles Arbeiten 🎯 / API Client verwenden](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/06/) (MT + Gäste im BBB 💻) !! Remote-only !!
+## #5 [Agiles Arbeiten 🎯 / API Client verwenden](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/05/) (MT)
 
 - Infos zu Markdown und Merge-Requests (für 2. Deliverable)
 
@@ -85,15 +85,15 @@
 - REST APIs mit eigenständigem API-Client konsumieren (testen/verwenden)
 - Verwendung von Markdown als Auszeichnungssprache für Dokumentationen in Gitlab
 
-## #6 [Objektorientierte Programmierung ⌨](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/05/) (JB)
+## #6 [Vue mit Strapi 🛠️ / TypeScript, OOP ⌨](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/06/) (JB)
 
+- Anbindung Vue an Strapi
+- Node.js Erläuterung
 - Typescript/JavaScript
   - Typen, Objekte
   - Funktionen / this
 - OOP / Klassen
 - Infos Deliverable "Blog"
-- (Node.js Erläuterung)
-- Anbindung Vue an Strapi
 
 ### Lernziele
 
@@ -101,7 +101,7 @@
 - OOP-Konzepte Abstraktion, Enkapsulation, Vererbung, Polymorphismus kennen
 - OOP-Modellierung einer Lösung zu einer einfachen Problemstellung
 
-## #7 [Strapi / Coaching](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/07/) (JB)
+## #7 [Vue State Management / Axios JWT 🛠️](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/07/) (JB)
 
 - Demo: Vertiefung Strapi und REST-Client
 
@@ -111,7 +111,21 @@
 - Strapi-Relationen durch Parameter "populate" befüllen lassen
 - Typescript-Datenmodell an Strapi-Antwort anpassen
 
-## [#8 DevOps kennenlernen / Cloudbasierte Software](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/08/) ☁ (JB/MT remote)
+## [#8 Software Testing ✅](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/08/) (MT)
+
+- Software Validierung & Verifikation inkl. Fragen
+- Demo: Cypress, Vitest, Bruno & (ggf. Spell-Check / DevOps Pipeline)
+
+### Lernziele
+
+- Software Verifikation und Validierung verstehen
+- Warum braucht es überhaupt Testing?
+- Unit-, Feature-, System-, Release-Tests verstehen
+- Test Automation - was steckt dahinter
+- Test-driven Development (TDD) als Methodologie verstehen
+- Code Reviews
+
+## [#9 DevOps kennenlernen / Cloudbasierte Software](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/09/) ☁ (JB/MT remote)
 
 - Demo: Angular HTTP-Kommunikation mit Strapi
 - DevOps organisatorisch und technisch
@@ -125,20 +139,6 @@
 - den Einsatz der verschiedenen as-a-Service Angebote bezogen auf ein Produkt beurteilen können und die Vor- und Nachteile beschreiben
 - Probleme und Gefahren beim Einsatz von as-a-Service Angeboten erläutern und für das Praxisprojekt abzuschätzen können
 - (die Begriffe Virtualisierung und Containerisierung und die Eigenschaften von Cloudsoftware erklären können)
-
-## [#9 Software Testing ✅](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/09/) (MT)
-
-- Software Validierung & Verifikation inkl. Fragen
-- Demo: Cypress, Insomnia, Jest (Strapi) & DevOps Pipeline Spell-Check
-
-### Lernziele
-
-- Software Verifikation und Validierung verstehen
-- Warum braucht es überhaupt Testing?
-- Unit-, Feature-, System-, Release-Tests verstehen
-- Test Automation - was steckt dahinter
-- Test-driven Development (TDD) als Methodologie verstehen
-- Code Reviews
 
 ## #10 📺 Cloudbasierte Software ☁ !!
 
