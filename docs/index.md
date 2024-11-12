@@ -75,7 +75,7 @@
 - Die Verwendung von REST APIs und CRUD-Operationen erläutern können
 - Erstellung eines einfachen Datenmodells im Strapi-Backend
 
-## #5 [Agiles Arbeiten 🎯 / API Client verwenden](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/05/) (MT)
+## #5 [Agiles Arbeiten 🎯 / API Client verwenden](https://github.com/digital-sustainability/module-wseg/blob/24/hs/docs/slides/content/05/) (MT)
 
 - Infos zu Markdown und Merge-Requests (für 2. Deliverable)
 
@@ -85,7 +85,7 @@
 - REST APIs mit eigenständigem API-Client konsumieren (testen/verwenden)
 - Verwendung von Markdown als Auszeichnungssprache für Dokumentationen in Gitlab
 
-## #6 [Vue mit Strapi 🛠️ / TypeScript, OOP ⌨](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/06/) (JB)
+## #6 [Vue mit Strapi 🛠️ / TypeScript, OOP ⌨](https://github.com/digital-sustainability/module-wseg/blob/24/hs/docs/slides/content/06/) (JB)
 
 - Anbindung Vue an Strapi
 - Node.js Erläuterung
@@ -101,7 +101,7 @@
 - OOP-Konzepte Abstraktion, Enkapsulation, Vererbung, Polymorphismus kennen
 - OOP-Modellierung einer Lösung zu einer einfachen Problemstellung
 
-## #7 [Vue State Management / Axios JWT 🛠️](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/07/) (JB)
+## #7 [Vue State Management / Axios JWT 🛠️](https://github.com/digital-sustainability/module-wseg/blob/24/hs/docs/slides/content/07/) (JB)
 
 - Demo: Vertiefung Strapi und REST-Client
 
@@ -111,10 +111,10 @@
 - Strapi-Relationen durch Parameter "populate" befüllen lassen
 - Typescript-Datenmodell an Strapi-Antwort anpassen
 
-## [#8 Software Testing ✅](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/08/) (MT)
+## [#8 Software Testing ✅](https://github.com/digital-sustainability/module-wseg/blob/24/hs/docs/slides/content/08/) (MT)
 
 - Software Validierung & Verifikation inkl. Fragen
-- Demo: Cypress, Vitest, Bruno & (ggf. Spell-Check / DevOps Pipeline)
+- Demo: Cypress, Vitest, Bruno
 
 ### Lernziele
 
@@ -125,31 +125,27 @@
 - Test-driven Development (TDD) als Methodologie verstehen
 - Code Reviews
 
-## [#9 DevOps kennenlernen / Cloudbasierte Software](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/09/) ☁ (JB/MT remote)
+## [#9 DevOps kennenlernen / Cloudbasierte Software](https://github.com/digital-sustainability/module-wseg/blob/24/hs/docs/slides/content/09/) ☁ (JB/MT remote)
 
-- Demo: Angular HTTP-Kommunikation mit Strapi
 - DevOps organisatorisch und technisch
 - Hands-on: Persönlicher Fork und Gitlab-Pipeline
-- "Operations und Cloudbasierte (open source) Software"
 
 ### Lernziele
 
 - den Begriff CI/CD und die Funktion eines Integration Servers erklären können
 - eine Gitlab Pipeline anhand der Datei .gitlab-ci.yml verwenden
+
+## #10 [Cloudbasierte Software ☁](https://github.com/digital-sustainability/module-wseg/blob/24/hs/docs/slides/content/10/)
+
+- "Operations und Cloudbasierte (open source) Software"
+
+### Lernziele
+
 - den Einsatz der verschiedenen as-a-Service Angebote bezogen auf ein Produkt beurteilen können und die Vor- und Nachteile beschreiben
 - Probleme und Gefahren beim Einsatz von as-a-Service Angeboten erläutern und für das Praxisprojekt abzuschätzen können
 - (die Begriffe Virtualisierung und Containerisierung und die Eigenschaften von Cloudsoftware erklären können)
 
-## #10 📺 Cloudbasierte Software ☁ !!
-
-## [#11 Accessibility and UX Design](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/11/) (T. Saksa) 🇫🇮 (+JB)
-
-- Accessibility
-- UX Design
-- Double Degree HAMK ↔️ BFH
-- Quiz
-
-## [#12 Software Evaluation ✅ / OPs & Monitoring ⚙️🔍](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/12/) (JB)
+## [#12 OPs & Monitoring ⚙️🔍](https://github.com/digital-sustainability/module-wseg/blob/24/hs/docs/slides/content/12/) (JB)
 
 - Qualitative Methoden: - Expert\*innen / Nutzer\*innen
 - Nachtrag DevSecOps: Security
@@ -158,12 +154,19 @@
 
 ### 🏃 4. Deliverable Blog/README 📰✅ mit GitLab Pages 🌐
 
+## [#12 Accessibility and UX Design / Software Evaluation ✅ ](https://github.com/digital-sustainability/module-wseg/blob/24/hs/docs/slides/content/11/) (+JB)
+
+- Accessibility
+- UX Design
+- Double Degree HAMK ↔️ BFH
+- Quiz
+
 ### Lernziele
 
 - Gründe für die Durchführung von Usability Tests kennen.
 - Unterschiede zwischen moderierten und unmoderierten Usability Tests kennen.
 
-## [#13 Projektabschluss 🏁 / Prüfungsumgebung](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/13/) (JB)
+## [#13 Projektabschluss 🏁 / Prüfungsumgebung](https://github.com/digital-sustainability/module-wseg/blob/24/hs/docs/slides/content/13/) (JB)
 
 - Agile Aktivität
 - Probelauf Prüfungsumgebung mit CAMPLA
@@ -174,9 +177,8 @@
 - verstehen, wann ein Projekt als abgeschlossen gilt
 - das Prinzip "Definition of Done" verstehen
 
-## [#14 Projektpräsentationen 👨🏼‍🏫👩🏼‍🏫 / Fragen zur Prüfung❓](https://github.com/digital-sustainability/module-wseg/blob/24/fs/docs/slides/content/14/) (MT/JB)
+## [#14 Projektpräsentationen 👨🏼‍🏫👩🏼‍🏫 / Fragen zur Prüfung❓](https://github.com/digital-sustainability/module-wseg/blob/24/hs/docs/slides/content/14/) (MT/JB)
 
-- Virtuelle Akademie: Learning Companion
 - Nachbesprechung Evaluationsergebnisse
 - Fragen zur Prüfung
-- ab 10.30 Uhr, festgelegte Gruppenreihenfolge
+- ab x.xx Uhr, festgelegte Gruppenreihenfolge
